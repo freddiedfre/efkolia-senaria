@@ -37,3 +37,12 @@
 
 HAPPY VPNing.
 
+
+
+# TO DO
+1. Create a base debian/ubuntu container image with open vpn installed and configured
+2. publish conainer to docker
+3. Publish container to google market place
+4. Add terraform code to maintain gcp vpn server infrastracture
+5. revised work flows and updates
+
