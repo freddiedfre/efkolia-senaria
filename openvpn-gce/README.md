@@ -28,7 +28,7 @@
 
 4. Fetch and run installation script.
     ```
-        sudo wget https://skiddow.github.io/OpenVPN/openvpn-install.sh && sudo bash openvpn-install.sh
+        sudo wget https://raw.githubusercontent.com/freddiedfre/efkolia-senaria/master/openvpn-gce/install.sh -O openvpn-install.sh && sudo bash openvpn-install.sh
     ```
 
     NB: Ensure to provide inputs when promted during the scripts execution
